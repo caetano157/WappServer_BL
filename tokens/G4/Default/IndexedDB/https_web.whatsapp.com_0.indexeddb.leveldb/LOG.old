@@ -1,0 +1,12 @@
+2023/09/13-16:43:52.197 4428 Reusing MANIFEST C:\WappServer\tokens\G4\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/13-16:43:52.197 4428 Recovering log #36
+2023/09/13-16:43:52.271 4428 Reusing old log C:\WappServer\tokens\G4\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000036.log 
+2023/09/13-16:44:05.223 20f8 Level-0 table #42: started
+2023/09/13-16:44:05.260 20f8 Level-0 table #42: 1093757 bytes OK
+2023/09/13-16:44:05.261 20f8 Delete type=0 #36
+2023/09/13-16:44:06.247 20f8 Compacting 1@1 + 1@2 files
+2023/09/13-16:44:06.290 20f8 Generated table #43@1: 25385 keys, 941230 bytes
+2023/09/13-16:44:06.290 20f8 Compacted 1@1 + 1@2 files => 941230 bytes
+2023/09/13-16:44:06.291 20f8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/13-16:44:06.291 20f8 Delete type=2 #39
+2023/09/13-16:44:06.291 20f8 Delete type=2 #42
